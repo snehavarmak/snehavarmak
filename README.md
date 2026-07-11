@@ -26,23 +26,7 @@
 
 </p>
 
----
 
-<p align="center">
-
-![](https://komarev.com/ghpvc/?username=snehavarmak&style=for-the-badge&color=blueviolet)
-
-![](https://img.shields.io/github/followers/snehavarmak?style=for-the-badge)
-
-![](https://img.shields.io/github/stars/snehavarmak?style=for-the-badge)
-
-![](https://img.shields.io/badge/Open%20To-Software%20Engineer-success?style=for-the-badge)
-
-![](https://img.shields.io/badge/CGPA-9.40-blueviolet?style=for-the-badge)
-
-</p>
-
----
 
 # 💫 About Me
 

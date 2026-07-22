@@ -187,33 +187,6 @@ Open To:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=snehavarmak&theme=tokyo-night&hide_border=true"/>
 
 </p>
-
----
-
-# ⚡ GitHub Profile Summary Cards
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snehavarmak&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=snehavarmak&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=snehavarmak&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=snehavarmak&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=snehavarmak&theme=tokyonight&utcOffset=5.5"/>
-
-</p>
-
 ---
 
 
